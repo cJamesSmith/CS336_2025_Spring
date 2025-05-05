@@ -1,0 +1,3 @@
+[submodule "assignment1-basics"]
+	path = assignment1-basics
+	url = git@github.com:cJamesSmith/assignment1-basics.git
